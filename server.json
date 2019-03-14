@@ -1,0 +1,8 @@
+{
+    "app":{
+        "cfengine":"adobe@2018"
+    },
+    "JVM":{
+        "minHeapSize":"1024"
+    }
+}
